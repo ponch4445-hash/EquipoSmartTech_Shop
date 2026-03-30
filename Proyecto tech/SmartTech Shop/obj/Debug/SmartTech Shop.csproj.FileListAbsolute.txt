@@ -1,0 +1,10 @@
+C:\Users\ponch\OneDrive\Escritorio\Proyecto tech\SmartTech Shop\bin\Debug\SmartTech Shop.exe.config
+C:\Users\ponch\OneDrive\Escritorio\Proyecto tech\SmartTech Shop\bin\Debug\SmartTech Shop.exe
+C:\Users\ponch\OneDrive\Escritorio\Proyecto tech\SmartTech Shop\bin\Debug\SmartTech Shop.pdb
+C:\Users\ponch\OneDrive\Escritorio\Proyecto tech\SmartTech Shop\obj\Debug\SmartTech Shop.csproj.AssemblyReference.cache
+C:\Users\ponch\OneDrive\Escritorio\Proyecto tech\SmartTech Shop\obj\Debug\SmartTech_Shop.FrmPrincipal.resources
+C:\Users\ponch\OneDrive\Escritorio\Proyecto tech\SmartTech Shop\obj\Debug\SmartTech_Shop.Properties.Resources.resources
+C:\Users\ponch\OneDrive\Escritorio\Proyecto tech\SmartTech Shop\obj\Debug\SmartTech Shop.csproj.GenerateResource.cache
+C:\Users\ponch\OneDrive\Escritorio\Proyecto tech\SmartTech Shop\obj\Debug\SmartTech Shop.csproj.CoreCompileInputs.cache
+C:\Users\ponch\OneDrive\Escritorio\Proyecto tech\SmartTech Shop\obj\Debug\SmartTech Shop.exe
+C:\Users\ponch\OneDrive\Escritorio\Proyecto tech\SmartTech Shop\obj\Debug\SmartTech Shop.pdb
